@@ -70,16 +70,3 @@ Appropriately labels the data set with descriptive variable names Source code "r
 
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject Source code "run_analysis.R" calculates the average for all measurement columns grouped by variables Activity and Subject and then writes the output to a local text file named "tidydata.txt""
 
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
